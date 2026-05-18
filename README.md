@@ -55,7 +55,7 @@ We envision a future where public and community funding is inherently transparen
 
 ## Contract Details
 
-- Contract Address: [YOUR_CONTRACT_ADDRESS_HERE]
+- Contract Address: CAV62DXLUBBWHNUALQFLBVM6R6KYV37VISW6YXJQDUGQ5ACTZIKLX4XL
 
 ## Future Scope
 
@@ -106,5 +106,3 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 ---
 
 **VillageVault** - Securing Financial Integrity on the Blockchain
-
-Contract_ID: CAV62DXLUBBWHNUALQFLBVM6R6KYV37VISW6YXJQDUGQ5ACTZIKLX4XL
