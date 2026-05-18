@@ -55,7 +55,7 @@ We envision a future where public and community funding is inherently transparen
 
 ## Contract Details
 
-- Contract Address: CAV62DXLUBBWHNUALQFLBVM6R6KYV37VISW6YXJQDUGQ5ACTZIKLX4XL
+- Contract Address: CD44FGMITG6FUGQC4QH7LPYU7LE5W6Z2NXD76TFYNDRKDAXLUQ37XMIK
 
 ## Future Scope
 
